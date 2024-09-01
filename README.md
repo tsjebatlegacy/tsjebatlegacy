@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Apps Designer
 - 📫 How to reach me jebatlegacy@bebayuakademi.edu.my
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Ts.Jebat
+- ⚡ Fun fact: Casual
 
 <!---
 tsjebatlegacy/tsjebatlegacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
